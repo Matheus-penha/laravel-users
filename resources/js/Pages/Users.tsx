@@ -130,12 +130,12 @@ const Users = ({ users }: Props) => {
     <div className='max-w-7xl mx-auto mt-10'>
         <div className='flex justify-between mb-5 items-end'>
             <div>
-                <h1 className='text-3xl font-bold'>Users</h1>
+                <h1 className='text-3xl font-bold'>Usuários</h1>
                 <p className='text-muted-foreground font-medium text-sm'>
-                    User Accounts management with File Uploads
+                    CRUD simples de usuários
                 </p>
             </div>
-            <Button onClick={() => setOpenAddUserSheet(true)}>Create New</Button>
+            <Button onClick={() => setOpenAddUserSheet(true)}>Criar usuário</Button>
         </div>
         
         <DataTable columns={columns} data={users}/>
