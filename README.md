@@ -2,3 +2,4 @@ Este é um sistema de gerenciamento de usuários com frontend em **React** e bac
 
 Projeto: ![image](https://github.com/user-attachments/assets/9aa652b1-83ff-40a4-b6ee-0c6330ac0cc2)
 
+Criação de novo usuário: ![image](https://github.com/user-attachments/assets/0d715588-fb4d-4b04-9920-bc0f84641f9c)
